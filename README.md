@@ -4,7 +4,7 @@
 - 👀 I’m interested in get a job as Programmer
 - 📫 My personal E-mail: mat.developer@outlook.com
 - 🧠 1st year studying science of computer
-- Languages: Portuguese, English, Japanese (Hiragana Only)
+- Languages: Portuguese, and English.
 <div align="center">
   <a href="https://github.com/MedradoM">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MedradoM&show_icons=true&theme=white&include_all_commits=true&count_private=true"/>
