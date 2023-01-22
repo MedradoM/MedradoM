@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Java, JavaScript, and Node.JS
 - 👀 I’m interested in get a job as Programmer
 - 📫 My personal E-mail: mat.developer@outlook.com
-- 🧠 1st year studying science of computer
+- 🧠 1st year studying computer science
 - Languages: Portuguese, and English.
 <div align="center">
   <a href="https://github.com/MedradoM">
