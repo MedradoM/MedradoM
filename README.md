@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋 My name's Matheus M. Massena</h2>
 
-- 🌱 I’m currently learning Java, JavaScript, and Node.JS
+- 🌱 I’m currently learning Java, JavaScript, and Python
 - 👀 I’m interested in get a job as Programmer
 - 📫 My personal E-mail: mat.developer@outlook.com
 - 🧠 1st year studying computer science
