@@ -14,11 +14,15 @@
 <div align="center">
   <br/>
   <h2>Technologies</h2>
-  <img height="30" width="40" src="https://simpleicons.org/icons/nodedotjs.svg">
-  <img height="30" width="40" src="https://simpleicons.org/icons/css3.svg">
-  <img height="30" width="40" src="https://simpleicons.org/icons/javascript.svg">
-  <img height="30" width="40" src="https://img.icons8.com/ios-filled/2x/java-coffee-cup-logo.png">
-  <img height="30" width="40" src="https://simpleicons.org/icons/html5.svg">
-  <img height="30" width="40" src="https://simpleicons.org/icons/react.svg">
-</div>
+    <img height="40" width="40" src="https://static-00.iconduck.com/assets.00/file-type-html-icon-226x256-lud8fl1p.png">
+    <img height="40" width="40" src="https://static-00.iconduck.com/assets.00/file-type-css-icon-226x256-ytqdyr76.png">
+    <img height="40" width="40" src="https://static-00.iconduck.com/assets.00/javascript-js-icon-256x256-2o2kq55k.png">
+    <img height="40" width="40" src="https://static-00.iconduck.com/assets.00/typescript-icon-icon-256x256-ohttv0b8.png">
+    <img height="40" width="40" src="https://static-00.iconduck.com/assets.00/bootstrap-icon-256x256-9y6h587s.png">
+    <img height="40" width="40" src="https://static-00.iconduck.com/assets.00/react-icon-256x228-97ltgbl1.png">
+    <img height="40" width="40" src="https://static-00.iconduck.com/assets.00/node-js-icon-227x256-913nazt0.png">
+    <img height="40" width="30" src="https://static-00.iconduck.com/assets.00/file-type-firebase-icon-187x256-x1poekzx.png">
+    <img height="30" width="40" src="https://static-00.iconduck.com/assets.00/mysql-original-wordmark-icon-256x133-co133152.png">
+    <img height="40" width="30" src="https://static-00.iconduck.com/assets.00/java-original-icon-189x256-mdqugxri.png">
   </div>
+</div>
