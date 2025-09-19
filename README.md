@@ -11,6 +11,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MedradoM&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MedradoM&layout=compact&langs_count=7&theme=dark"/>
 </div>
+<!-- 
 <div align="center">
   <br/>
   <h2>Technologies</h2>
@@ -28,3 +29,4 @@
     <img height="40" width="30" src="https://static-00.iconduck.com/assets.00/django-icon-201x256-i51qs26r.png" />
   </div>
 </div>
+  --/>
